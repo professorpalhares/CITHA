@@ -1,0 +1,23 @@
+{
+    "id_sensor": "IGRP-001",
+    "local": "Reserva Florestal Ducke",
+    "timestamp": "2025-07-25T09:30:00Z",
+    "ativo": true,
+    "leituras": [
+        {
+            "parametro": "pH",
+            "valor": 6.8,
+            "unidade": ""
+        },
+        {
+            "parametro": "Turbidez",
+            "valor": 4.5,
+            "unidade": "NTU"
+        },
+        {
+            "parametro": "Oxigenio Dissolvido",
+            "valor": 7.2,
+            "unidade": "mg/L"
+        }
+    ]
+}
