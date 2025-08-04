@@ -6,3 +6,5 @@ ativo = True
 
 print("ANO:", ano)
 print("NOME CURSO:", nomeCurso)
+print("PREÇO:", preco)
+print("ATIVO:", ativo)

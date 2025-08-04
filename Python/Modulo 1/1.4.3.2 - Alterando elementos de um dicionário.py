@@ -8,6 +8,5 @@ produto['Quantidade'] = 100
 
 nome = produto['Nome']
 quantidade = produto['Quantidade']
-
 print("Nome : ", nome)
 print('Quantidade : ', quantidade)
